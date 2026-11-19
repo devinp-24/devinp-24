@@ -1,67 +1,72 @@
-# Devin Proothi's GitHub Profile
+## Hey, I'm Devin 👋
 
-## Welcome to My GitHub Page!
+I'm a full-stack developer from Vancouver and a UBC Computer Science grad
+(class of 2026). My rule is simple: if something in my life is tedious, I
+build a tool for it. That's how I ended up with an app for my sneakers, an app
+for my Gran Turismo garage, and a bot that once got me a visa appointment
+more than a year and a half sooner.
 
-Hello! I'm Devin, a Computer Science student at the University of British Columbia. This is my personal GitHub page where I showcase all my projects and contributions. Feel free to explore my repositories and get in touch if you'd like to collaborate or learn more about my work.
-
----
-
-## About Me
-
-- **Name:** Devin Proothi
-- **Major:** Computer Science
-- **University:** University of British Columbia, Vancouver
-- **Year:** 4th year standing
-- **Interests:** Web Development, Frontend Development, DevOps Engineering, Software Engineering, Machine Learning, Data Analytics
+I build fast and lean on AI a lot. Claude Code is open most days. I still read
+what it writes, because I want to be the one who can fix it when it breaks.
 
 ---
 
-<!--
-## Projects
+### 🛠️ Things I've built
 
-### 1. [Project Title 1]
-**Description:** A brief description of the project, its purpose, and key features.
+**Tools for my own life**
 
-**Technologies Used:** [List of Technologies]
+- **[The Stockroom](https://github.com/devinp-24/The-Stockroom)**: my sneaker collection and an 800-pair
+  wishlist, on the web and on my phone. [Have a look →](https://the-stockroom-production.up.railway.app)
+- **[Save to Stockroom](https://github.com/devinp-24/Stockroom-Extension)**: a Chrome extension that adds the
+  shoe I'm looking at to that wishlist, from any shop, in one click.
+- **[Parc Fermé](https://github.com/devinp-24/Parc-Ferme)**: tracks every car in Gran Turismo 7, what I'm
+  missing, and what it would cost to finish the collection. (Spoiler: a lot.)
+  [Have a look →](https://parc-ferme-production.up.railway.app)
+- **[Collections MCP](https://github.com/devinp-24/Collections-MCP)**: lets Claude talk to both apps, so I can
+  ask "what's leaving the Legend dealership this week that I don't own?" and get a real answer.
+- **[US Visa Appointment Checker](https://github.com/devinp-24/US-Visa-Appointment-Checker)**: a Selenium bot
+  that watched the visa portal and texted me when an earlier slot opened.
 
-**Repository:** [Link to Repository]
+**At work**
+
+- **[Calio](https://github.com/devinp-24/Calio-Expo)**: an AI food assistant (React Native, OpenAI, Google
+  Places) I built as a full-stack developer at AeroQube. It suggests where to eat based on your mood, the
+  weather and what you've ordered before.
+- Before that I was a frontend intern at Intellisqr, moving a company site to React, and a backend intern
+  at Avi Root Info Solutions, working in Django.
+
+**At school**
+
+- **[SwipeMates](https://github.com/devinp-24/SwipeMates)**: a Java and Oracle JDBC desktop app for our
+  databases course.
+- **[Sneaker Inventory Tracker](https://github.com/devinp-24/Sneaker-Inventory-Tracker)**: a Java app from my
+  software construction course, and the first version of my sneaker obsession in code. The Stockroom is
+  where it ended up.
 
 ---
---->
 
-## Skills
+### 🏀 Off the keyboard
 
-- **Programming Languages:** BASIC, Java, Python, C/C++, TypeScript
-- **Web Development:** HTML5, CSS, JavaScript, Django, Node.js
-- **Database:** Oracle, MySQL, R
-- **Tools/Environment:** Eclipse, Visual Studio Code, PyCharm, IntelliJ
-- **Testing:** GDB, jUnit, Given-When-Then Testing (Chai), TDD
+- **Basketball.** I'm a shooting guard. I played on a UBC intramural team for eight months, and I've reffed
+  intramural games too, so I've seen the game from both sides of the whistle.
+- **Sim racing.** Gran Turismo 7 on a Logitech G29. I'm **DR B** in Sport Mode, roughly the top quarter of
+  ranked drivers, and I usually qualify inside the **top 10,000** worldwide in the Daily Races. My garage
+  holds 449 of the game's 590 cars, and yes, I built an app to count them.
+- **Go-karting**, whenever I get the chance, so I can drive something with real g-forces.
+- **Sneakers.** 24 pairs owned, 800 on the list, and an app to keep me honest about both.
+
+I speak English, Hindi and some French.
 
 ---
 
-## Education
+### 🧰 What I work with
 
-**3rd Year Bachelor of Science** in Computer Science, University of British Columbia, Vancouver
+`TypeScript` `JavaScript` `React` `React Native` `Node.js` `Express` `Python` `Django` `Flask`
+`Java` `C++` `SQL` `REST APIs` `MCP` `Chrome extensions` `Railway` `Git` `Claude Code`
 
-- **Expected Graduation:** May, 2025
-- **Relevant Courses:** CPSC 121 (Models of Computation), CSPC 210 (Software Construction), CPSC 213 (Introduction to Computer Systems), CPSC 221 (Basic Algorithms and Data Structures), CPSC 304 (Introduction to Relational Databases), CPSC 310 (Introduction to Software Engineering), CPSC 313 (Computer Hardware and Operating Systems), CPSC 314 (Computer Graphics), CPSC 340 (Machine Learning and Data Mining)
-
-**1st Year Bachelor of Science** in Computer Science, University of British Columbia Okanagan, Kelowna
-
-- **Date:** September, 2021 - May, 2022
-- **Relevant Courses:** COSC 111 (Computer Programming I), COSC 121 (Computer Programming II), COSC 122 (Computer Fluency), COSC 123 (Computer Creativity)
-  
 ---
 
-## Contact
+### 📫 Say hi
 
-Feel free to reach out to me via email or connect with me on LinkedIn.
-
-- **Email:** [devinpr2021@gmail.com](mailto:devinpr2021@gmail.com)
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/devin-proothi-b11317197/)
-
-
-<!---
-devinp-24/devinp-24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[devinproothi.pr24@gmail.com](mailto:devinproothi.pr24@gmail.com) ·
+[LinkedIn](https://www.linkedin.com/in/devin-proothi-b11317197/)
