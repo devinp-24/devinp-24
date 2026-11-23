@@ -16,7 +16,7 @@ what it writes, because I want to be the one who can fix it when it breaks.
 **Tools for my own life**
 
 - **[The Stockroom](https://github.com/devinp-24/The-Stockroom)**: my sneaker collection and an 800-pair
-  wishlist, on the web and on my phone. [Have a look →](https://the-stockroom-production.up.railway.app)
+  wishlist, on the web and on my phone. [Have a look →](https://the-stockroom-production.up.railway.app) · [Watch the demo →](https://youtu.be/Qs4NPStnUsk)
 - **[Save to Stockroom](https://github.com/devinp-24/Stockroom-Extension)**: a Chrome extension that adds the
   shoe I'm looking at to that wishlist, from any shop, in one click.
 - **[Parc Fermé](https://github.com/devinp-24/Parc-Ferme)**: tracks every car in Gran Turismo 7, what I'm
