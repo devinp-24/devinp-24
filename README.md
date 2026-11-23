@@ -16,14 +16,15 @@ what it writes, because I want to be the one who can fix it when it breaks.
 **Tools for my own life**
 
 - **[The Stockroom](https://github.com/devinp-24/The-Stockroom)**: my sneaker collection and an 800-pair
-  wishlist, on the web and on my phone. [Have a look →](https://the-stockroom-production.up.railway.app) · [Watch the demo →](https://youtu.be/Qs4NPStnUsk)
+  wishlist, on the web and on my phone. [Have a look →](https://the-stockroom-production.up.railway.app) · [Watch the demo →](https://youtu.be/12fd-j6zcSc)
 - **[Save to Stockroom](https://github.com/devinp-24/Stockroom-Extension)**: a Chrome extension that adds the
-  shoe I'm looking at to that wishlist, from any shop, in one click.
+  shoe I'm looking at to that wishlist, from any shop, in one click. [Watch the demo →](https://youtu.be/DjPHOK8OSfs)
 - **[Parc Fermé](https://github.com/devinp-24/Parc-Ferme)**: tracks every car in Gran Turismo 7, what I'm
   missing, and what it would cost to finish the collection. (Spoiler: a lot.)
-  [Have a look →](https://parc-ferme-production.up.railway.app)
+  [Have a look →](https://parc-ferme-production.up.railway.app) · [Watch the demo →](https://youtu.be/IC3AjvdyErU)
 - **[Collections MCP](https://github.com/devinp-24/Collections-MCP)**: lets Claude talk to both apps, so I can
   ask "what's leaving the Legend dealership this week that I don't own?" and get a real answer.
+  [Watch the demo →](https://youtu.be/OJXIuS2i6NE)
 - **[US Visa Appointment Checker](https://github.com/devinp-24/US-Visa-Appointment-Checker)**: a Selenium bot
   that watched the visa portal and texted me when an earlier slot opened.
 
