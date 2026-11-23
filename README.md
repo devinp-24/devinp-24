@@ -15,7 +15,7 @@ what it writes, because I want to be the one who can fix it when it breaks.
 
 **Tools for my own life**
 
-Quick demos of all of these are in [one playlist →](https://www.youtube.com/playlist?list=PLcJpUrom3FBA)
+Short demos of the first four are in [one playlist →](https://www.youtube.com/playlist?list=PLcJpUrom3FBA)
 
 - **[The Stockroom](https://github.com/devinp-24/The-Stockroom)**: my sneaker collection and an 800-pair
   wishlist, on the web and on my phone. [Have a look →](https://the-stockroom-production.up.railway.app) · [Watch the demo →](https://youtu.be/12fd-j6zcSc)
